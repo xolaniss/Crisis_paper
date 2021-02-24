@@ -1,0 +1,26 @@
+{
+    "id": "132CF3F2",
+    "path": "~/Desktop/Eight_paper/DJI.R",
+    "project_path": "DJI.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1614150499691.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "77,0",
+        "scrollLine": "13"
+    },
+    "folds": "18|38|40|0|\n41|30|46|0|\n42|26|45|2|\n47|34|52|0|\n53|48|72|0|\n",
+    "lastKnownWriteTime": 1614151979,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1614151979269,
+    "read_only": false,
+    "read_only_alternatives": []
+}
